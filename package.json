@@ -1,0 +1,12 @@
+{
+    "name": "ascii-counter",
+    "version": "1.0.0",
+    "description": "ASCII art global click counter",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}
